@@ -6,7 +6,7 @@ Thiết kế một máy tính nhúng với bộ xử lý RV64IM tích hợp bộ
 
 ## Sơ đồ khối:
 
-![EmbeddedComputer drawio](https://github.com/atfox272/Embedded-Computer/assets/99324602/6d1d9a0b-0629-4479-867e-9cb7987013e0)
+![EmbeddedComputer](https://github.com/atfox272/Embedded-Computer/assets/99324602/3c1f78ee-3c66-4f94-bb5f-e044b77bd42c)
 _Lưu ý: Sơ đồ khối trên có thể chưa hoàn chỉnh vì có một số khối chức năng mà tôi chưa hoàn toàn nắm được luồng thực thi và các cơ chế của nó_
 
 ## Tổng quan các khối:
